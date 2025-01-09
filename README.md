@@ -6,7 +6,7 @@ Insights and recommmendations are provided on the following key areas:
 * **Producing Volume Performance**: An analysis of local coffee volume, understanding their current yield, farm area, and estimated coffee volume produced.
 * **Regional Comparisons**: An evaluation of the number of farmers registered and data collection progress by region.
 
-The Python script ultilized to combine, process data from various Excel files can be found here.
+The Python script ultilized to combine, process data from various Excel files can be found [here](https://github.com/SiTanNguyen/Supplier-KPI-Tracking/blob/main/Folder_Combine.ipynb).
 
 # Executive Summary
 **Overview of Local Teams**
