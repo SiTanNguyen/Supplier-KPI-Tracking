@@ -21,7 +21,9 @@ The company's teams operates across multiple regions, with dedicated teams in Br
 * **Vietnam produced approximately 25,000 tons of coffee last year**, making it the largest Robusta coffee-producing country in the group. **India ranks second, with 13,000 tons of coffee produced.**
 * **Despite with only 52 farm plots,Brazil, holds over 85% of the first place for Arabica**, producing 19,000 tons. Colombia ranks first with nearly 22,000 tons produced
 
- ![image](https://github.com/user-attachments/assets/0284301f-016b-47b3-9b64-a3ed5080909d)
+   ![image](https://github.com/user-attachments/assets/4afb599a-f81a-4371-a9b4-f5966054db3c) ![image](https://github.com/user-attachments/assets/f0903ba6-17e2-4ce5-93a3-00d2f05d016c)
+
+
 
 **Risk Assessment**
 
