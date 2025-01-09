@@ -10,6 +10,7 @@ The Python script ultilized to combine, process data from various Excel files ca
 
 # Executive Summary
 **Overview of Local Teams**
+
 The company's teams operates across multiple regions, with dedicated teams in Brazil, Colombia, India, Indonesia, and Vietnam, collaborating with approximately 8,500 farmers. These farmers primarily cultivate Arabica and Robusta coffee, contributing to a diverse and high-quality portfolio. With a total coffee production volume exceeding 80,000 tons in the previous year. 
 ![image](https://github.com/user-attachments/assets/1994b04c-ebaf-49e3-812a-2e51d1b6c8e0)
 
