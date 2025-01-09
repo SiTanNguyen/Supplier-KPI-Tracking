@@ -21,7 +21,7 @@ The company's teams operates across multiple regions, with dedicated teams in Br
 * **Vietnam produced approximately 25,000 tons of coffee last year**, making it the largest Robusta coffee-producing country in the group. **India ranks second, with 13,000 tons of coffee produced.**
 * **Despite with only 52 farm plots,Brazil, holds over 85% of the first place for Arabica**, producing 19,000 tons. Colombia ranks first with nearly 22,000 tons produced
 
-  ![image](https://github.com/user-attachments/assets/0284301f-016b-47b3-9b64-a3ed5080909d)
+ ![image](https://github.com/user-attachments/assets/0284301f-016b-47b3-9b64-a3ed5080909d)
 
 **Risk Assessment**
 
@@ -29,9 +29,9 @@ The company's teams operates across multiple regions, with dedicated teams in Br
 * **Colombia has over 100 farmers flagged for alert despite evidence** being brought to the local team. This has resulted in the team allocating resources to visit local fields and gather more evidence to verify the situation for these farmers.
 * **Brazil has nearly 0% of alerts for positions in deforestation risk areas**, due to highly strict regulations on opening farmland in one of the largest agricultural countries.
 
-  ![image](https://github.com/user-attachments/assets/6dd83b98-0d7b-42d5-814e-dc3fea6bbb2e)
+ ![image](https://github.com/user-attachments/assets/6dd83b98-0d7b-42d5-814e-dc3fea6bbb2e)
 
-  **Recommendations**
+**Recommendations**
   * Despite collecting over 9,000 geolocation data points, the team could dedicate more effort to using digital tools to gather full land area geolocation data **(polygons) for a more precise risk calculation**, especially with farmers in Colombia or India.
 
 
