@@ -35,6 +35,8 @@ The company's teams operates across multiple regions, with dedicated teams in Br
 
 **Recommendations**
   * Despite collecting over 9,000 geolocation data points, the team could dedicate more effort to using digital tools to gather full land area geolocation data **(polygons) for a more precise risk calculation**, especially with farmers in Colombia or India.
+  * **The average risk percentage of the group, based on approved evidence, is significantly higher**. This should alert the team to the quality of the evidence provided, and they should carefully re-evaluate it when visiting farmers' fields.
+  * **Continue managing the team's progress in collecting geolocation data** from farmers to track progress during the mapping period. Focus on helping the team become familiar with the applied process and make efforts to identify errors that occur during mapping.
 
 
 
